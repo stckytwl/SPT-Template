@@ -36,7 +36,7 @@
         <TarkovManagedDir>$(TarkovDir)EscapeFromTarkov_Data\Managed\</TarkovManagedDir>
         <TarkovBepInExCoreDir>$(TarkovDir)BepInEx\core\</TarkovBepInExCoreDir>
         <TarkovBepInExSptPluginDir>$(TarkovDir)BepInEx\plugins\spt\</TarkovBepInExSptPluginDir>
-        <TargetSptVersion>3.9.4</TargetSptVersion>
+        <TargetSptVersion>3.10.5</TargetSptVersion>
         <SourceRevisionId>1.0.0</SourceRevisionId>
     </PropertyGroup>
     <ItemGroup>
